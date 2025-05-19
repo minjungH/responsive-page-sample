@@ -19,7 +19,9 @@
 - 목록에 Git Bash 없을 시 VSCode 재시작
 - 터미널 열기, Ctrl + ` 또는 Ctrl + j 또는 마우스 오른쪽 클릭
   통합 터미널 열기
+
   ### Global Git 사용자 설정
+
   - gitHub 가입시 설정한 "이메일", "아이디" 사용
   - 아이디 설정
   - git config --global user.name "깃허브아이디"
@@ -36,4 +38,7 @@
 - repository 이름은 폴더명과 똑같이 설정하는 것을 추천
   ("소문자만 가능") -> responsive-page-sample
 - git 초기화 하기(폴더별로 최초 한번 설정)
-- git init
+- git init ->(메인 나와야햐!)
+- 파일 추가
+  - git add .
+    (. = 전체를 추가한다 라는의미)
